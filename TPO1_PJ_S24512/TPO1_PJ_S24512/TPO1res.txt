@@ -1,0 +1,13 @@
+Plik z przykładową zawartością w kodowaniu CP1250
+
+Zażółć gęślą jaźń.
+
+Ąćęłńóśźż
+Příklad obsahu souboru v kódování CP1250
+
+Některé české znaky: á, č, ě, í, ň, ó, š, ť, ú, ů, ý, ž.
+Plik z przykładową zawartością w kodowaniu CP1250
+
+Zażółć gęślą jaźń.
+
+Ąćęłńóśźż

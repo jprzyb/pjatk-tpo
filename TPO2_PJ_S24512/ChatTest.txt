@@ -1,0 +1,10 @@
+localhost
+9999
+Basia	50	1	2	3	4
+Asia	10	1	2	3	4
+Adam	50	1	2	3	4
+Sara	10	1	2	3	4
+Krzys	100	1	2	3	4
+Oliwia	50	1	2	3	4
+Kacper	25	1	2	3	4
+Obibok	25	1	2	3	4
